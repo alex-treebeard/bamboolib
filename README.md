@@ -1,6 +1,7 @@
 # Community repository of bamboolib - the Fastest and Easiest Way to Work with pandas DataFrames 🐼🐍
 [![](https://img.shields.io/badge/python->=3.6-blue.svg)](https://bamboolib.com)
 
+
 This is the community repository of [bamboolib](https://bamboolib.8080labs.com/). There are no source files because bamboolib is closed source. However, you can [use bamboolib for free on Open Data](https://bamboolib.8080labs.com/get-started). If you have any issues or feature requests, please open an issue.
 
 bamboolib is a python package for easy data exploration & transformation with pandas. You can use it with Jupyter Notebook or JupyterLab. bamboolib adds an interactive UI to your pandas output, which allows you to quickly prepare and visualize your data. All transformations come with **full keyboard control**, making bamboolib loved both by pandas-savvy users as well as Python novices.
