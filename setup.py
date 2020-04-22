@@ -11,6 +11,6 @@ setup(
     url="https://github.com/tkrabel/bamboolib",
     download_url="",
     keywords=[],
-    install_requires=[],
+    install_requires=["pandas", "numpy", "bamboolib"],
     classifiers=[],
 )
